@@ -1,0 +1,12 @@
+{
+  "cssImports": {
+    "/Users/kinde/Repos/kinde-nextjs-app-router-starter-kit/src/app/layout.tsx": [
+      "/Users/kinde/Repos/kinde-nextjs-app-router-starter-kit/src/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/kinde/Repos/kinde-nextjs-app-router-starter-kit/src/app/page": [
+      "/Users/kinde/Repos/kinde-nextjs-app-router-starter-kit/src/app/globals.css"
+    ]
+  }
+}
